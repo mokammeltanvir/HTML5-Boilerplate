@@ -1,9 +1,10 @@
 /*
   Theme Name: HTML5 Boilerplate Template 
   Author: Mokammel Tanvir
-  Support: mokammeltanvir01@gmail.com
+  Author URI: https://mokammeltanvir.com
+  Support: tanvir@mokammeltanvir.com
   Description: HTML5 Boilerplate template to create a new website design or html theme.
-  Version: 1.0
+  Version: 2.0 (updated on 2023)
 */
 
 /* CSS Index
@@ -186,6 +187,7 @@ label {
 .separator {
   border-top: 1px solid #f2f2f2;
 }
+
 /* Button Style CSS*/
 
 .btn {
